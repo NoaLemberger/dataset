@@ -1,0 +1,13 @@
+﻿cat_idx,cat_code,cat_desc,cat_indent
+1,BA_BA,Business Applications,0
+2,BA_CBA,Business Applications from Corporations,1
+3,BA_HBA,High-Propensity Business Applications,1
+4,BA_WBA,Business Applications with Planned Wages,1
+5,BF_BF4Q,Business Formations within Four Quarters,0
+6,BF_BF8Q,Business Formations within Eight Quarters,0
+7,BF_PBF4Q,Projected Business Formations within Four Quarters,0
+8,BF_PBF8Q,Projected Business Formations within Eight Quarters,0
+9,BF_SBF4Q,Spliced Business Formations within Four Quarters,0
+10,BF_SBF8Q,Spliced Business Formations within Eight Quarters,0
+11,BF_DUR4Q,Average Duration (in Quarters) from Business Application to Formation within Four Quarters,0
+12,BF_DUR8Q,Average Duration (in Quarters) from Business Application to Formation within Eight Quarters,0
